@@ -1,7 +1,6 @@
 # 💨 gunpowder
 
 ## CLI
----
 
 ### parse <string>
 `node index.js parse circus`
