@@ -1,5 +1,7 @@
 # 💨 gunpowder
 
+A coded CLI that parses and generates strings by their chinese color-chart code on the Cashier (VIETNAM).
+
 ## CLI
 
 ### parse <string>
