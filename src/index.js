@@ -149,9 +149,9 @@ class GunPowder {
     if (s === 'hydrogen') {
       return {
         value: 中土.value.filter((w) => w === 'A' || w === 'E' || w === 'I'),
-        function: 中土.function.filter((w) => w === ''),
-        behavior: 中土.behavior.filter((w) => w === ''),
-        result: 中土.result.filter((w) => w === '')
+        function: 中土.function.filter((w) => w !== 'G'),
+        behavior: 中土.behavior,
+        result: 中土.result.filter((w) => w === 'H' || w === 'K' || w === 'L')
       }
     } else if (s === 'helium') {
       return {
