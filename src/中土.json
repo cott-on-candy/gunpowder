@@ -1,0 +1,6 @@
+{
+  'value': ['A', 'E', 'I', 'O', 'U'],
+  'function': ['B', 'D', 'F', 'G', 'N', 'P', 'T', 'W', 'X'],
+  'behavior': ['B', 'J', 'K', 'L', 'Q', 'R', 'S', 'U', 'V'],
+  'result': ['C', 'H', 'K', 'L', 'M', 'O', 'V', 'Y', 'Z']
+}

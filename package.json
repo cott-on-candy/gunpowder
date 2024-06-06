@@ -1,0 +1,16 @@
+{
+  "name": "gunpowder",
+  "version": "1.0.0",
+  "description": "A coded CLI that parses and generates strings by their chinese color-chart code on the Cashier (VIETNAM).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "swiss-knife": "git+ssh://git@github.com:cott-on-candy/swiss-knife#main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

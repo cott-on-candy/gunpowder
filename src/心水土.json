@@ -1,0 +1,940 @@
+{
+  "keys": [
+    {
+      "key": 0,
+      "key_name": "Manhattan",
+      "children": [
+        {
+          "key": 0,
+          "name": "Bank",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 1,
+          "name": "Stationary Shop",
+          "data": {
+            "character_key": "大",
+            "character_key_name": "Dà",
+            "character_key_name_translation": "big",
+            "character_key_name_package": "bullseye"
+          }
+        },
+        {
+          "key": 2,
+          "name": "Drug Store",
+          "data": {
+            "character_key": "田",
+            "character_key_name": "Tián",
+            "character_key_name_translation": "field",
+            "character_key_name_package": "placard"
+          }
+        },
+        {
+          "key": 3,
+          "name": "School",
+          "data": {
+            "character_key": "水",
+            "character_key_name": "Shuǐ",
+            "character_key_name_translation": "water",
+            "character_key_name_package": "compass"
+          }
+        },
+        {
+          "key": 4,
+          "name": "Police Station",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 5,
+          "name": "Hospital",
+          "data": {
+            "character_key": "廿",
+            "character_key_name": "Niàn",
+            "character_key_name_translation": "twenty",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 6,
+          "name": "Records Store",
+          "data": {
+            "character_key": "廿",
+            "character_key_name": "Niàn",
+            "character_key_name_translation": "twenty",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 7,
+          "name": "Tech Store",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 8,
+          "name": "Bakery",
+          "data": {
+            "character_key": "人",
+            "character_key_name": "Rén",
+            "character_key_name_translation": "people",
+            "character_key_name_package": "umbrella"
+          }
+        },
+        {
+          "key": 9,
+          "name": "Supermarket",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 10,
+          "name": "Fantasy Store",
+          "data": {
+            "character_key": "日",
+            "character_key_name": "Rì",
+            "character_key_name_translation": "day",
+            "character_key_name_package": "snowflake"
+          }
+        },
+        {
+          "key": 11,
+          "name": "Airport",
+          "data": {
+            "character_key": "尸",
+            "character_key_name": "Shī",
+            "character_key_name_translation": "corpse",
+            "character_key_name_package": "sunflower"
+          }
+        },
+        {
+          "key": 12,
+          "name": "Liquor Store",
+          "data": {
+            "character_key": "中",
+            "character_key_name": "Zhōng",
+            "character_key_name_translation": "middle",
+            "character_key_name_package": "joystick"
+          }
+        },
+        {
+          "key": 13,
+          "name": "Pet Shop",
+          "data": {
+            "character_key": "十",
+            "character_key_name": "Shí",
+            "character_key_name_translation": "ten",
+            "character_key_name_package": "tennis"
+          }
+        },
+        {
+          "key": 14,
+          "name": "Veterinary",
+          "data": {
+            "character_key": "一",
+            "character_key_name": "Yī",
+            "character_key_name_translation": "one",
+            "character_key_name_package": "flashlight"
+          }
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "key_name": "Star",
+      "children": [
+        {
+          "key": 0,
+          "name": "Supermarket",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 1,
+          "name": "Liquor Store",
+          "data": {
+            "character_key": "中",
+            "character_key_name": "Zhōng",
+            "character_key_name_translation": "middle",
+            "character_key_name_package": "joystick"
+          }
+        },
+        {
+          "key": 2,
+          "name": "Police Station",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 3,
+          "name": "Hospital",
+          "data": {
+            "character_key": "廿",
+            "character_key_name": "Niàn",
+            "character_key_name_translation": "twenty",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 4,
+          "name": "Ware Shop",
+          "data": {
+            "character_key": "卜",
+            "character_key_name": "Bo",
+            "character_key_name_translation": "predict",
+            "character_key_name_package": "gas_station"
+          }
+        },
+        {
+          "key": 5,
+          "name": "Bike Shop",
+          "data": {
+            "character_key": "女",
+            "character_key_name": "Nǚ",
+            "character_key_name_translation": "female",
+            "character_key_name_package": "guitar"
+          }
+        },
+        {
+          "key": 6,
+          "name": "Records Shop",
+          "data": {
+            "character_key": "月",
+            "character_key_name": "Yuè",
+            "character_key_name_translation": "moon",
+            "character_key_name_package": "calendar"
+          }
+        },
+        {
+          "key": 7,
+          "name": "Car Shop",
+          "data": {
+            "character_key": "月",
+            "character_key_name": "Yuè",
+            "character_key_name_translation": "moon",
+            "character_key_name_package": "calendar"
+          }
+        },
+        {
+          "key": 8,
+          "name": "Drug Store",
+          "data": {
+            "character_key": "田",
+            "character_key_name": "Tián",
+            "character_key_name_translation": "field",
+            "character_key_name_package": "placard"
+          }
+        },
+        {
+          "key": 9,
+          "name": "Photograph Store",
+          "data": {
+            "character_key": "木",
+            "character_key_name": "Mù",
+            "character_key_name_translation": "wood",
+            "character_key_name_package": "watch"
+          }
+        },
+        {
+          "key": 10,
+          "name": "Shoes Store",
+          "data": {
+            "character_key": "中",
+            "character_key_name": "Zhōng",
+            "character_key_name_translation": "middle",
+            "character_key_name_package": "joystick"
+          }
+        },
+        {
+          "key": 11,
+          "name": "Bus Station",
+          "data": {
+            "character_key": "人",
+            "character_key_name": "Rén",
+            "character_key_name_translation": "people",
+            "character_key_name_package": "umbrella"
+          }
+        },
+        {
+          "key": 12,
+          "name": "Sound Gear Store",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 13,
+          "name": "DVD Rental Shop",
+          "data": {
+            "character_key": "竹",
+            "character_key_name": "Zhú",
+            "character_key_name_translation": "bamboo",
+            "character_key_name_package": "toolbox"
+          }
+        },
+        {
+          "key": 14,
+          "name": "Newsstand",
+          "data": {
+            "character_key": "弓",
+            "character_key_name": "Gōng",
+            "character_key_name_translation": "bow",
+            "character_key_name_package": "magnet"
+          }
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "key_name": "Sky",
+      "children": [
+        {
+          "key": 0,
+          "name": "Toy Shop",
+          "data": {
+            "character_key": "卜",
+            "character_key_name": "Bo",
+            "character_key_name_translation": "predict",
+            "character_key_name_package": "gas_station"
+          }
+        },
+        {
+          "key": 1,
+          "name": "Bike Shop",
+          "data": {
+            "character_key": "女",
+            "character_key_name": "Nǚ",
+            "character_key_name_translation": "female",
+            "character_key_name_package": "guitar"
+          }
+        },
+        {
+          "key": 2,
+          "name": "Butcher",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 3,
+          "name": "Police Station",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 4,
+          "name": "Convenience Store",
+          "data": {
+            "character_key": "土",
+            "character_key_name": "Tǔ",
+            "character_key_name_translation": "earth",
+            "character_key_name_package": "taxi_cab"
+          }
+        },
+        {
+          "key": 5,
+          "name": "Drug Store",
+          "data": {
+            "character_key": "田",
+            "character_key_name": "Tián",
+            "character_key_name_translation": "field",
+            "character_key_name_package": "placard"
+          }
+        },
+        {
+          "key": 6,
+          "name": "Stationary Shop",
+          "data": {
+            "character_key": "大",
+            "character_key_name": "Dà",
+            "character_key_name_translation": "big",
+            "character_key_name_package": "bullseye"
+          }
+        },
+        {
+          "key": 7,
+          "name": "Sound Gear Store",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 8,
+          "name": "Bakery",
+          "data": {
+            "character_key": "人",
+            "character_key_name": "Rén",
+            "character_key_name_translation": "people",
+            "character_key_name_package": "umbrella"
+          }
+        },
+        {
+          "key": 9,
+          "name": "School",
+          "data": {
+            "character_key": "水",
+            "character_key_name": "Shuǐ",
+            "character_key_name_translation": "water",
+            "character_key_name_package": "compass"
+          }
+        },
+        {
+          "key": 10,
+          "name": "Gym",
+          "data": {
+            "character_key": "金",
+            "character_key_name": "Jīn",
+            "character_key_name_translation": "gold",
+            "character_key_name_package": "trash_can"
+          }
+        },
+        {
+          "key": 11,
+          "name": "Clothing Store",
+          "data": {
+            "character_key": "尸",
+            "character_key_name": "Shī",
+            "character_key_name_translation": "corpse",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 12,
+          "name": "Ice Cream Shop",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 13,
+          "name": "Sex Shop",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 14,
+          "name": "Bank",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "key_name": "Bike",
+      "children": [
+        {
+          "key": 0,
+          "name": "Hospital",
+          "data": {
+            "character_key": "廿",
+            "character_key_name": "Niàn",
+            "character_key_name_translation": "twenty",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 1,
+          "name": "Book Store",
+          "data": {
+            "character_key": "一",
+            "character_key_name": "Yī",
+            "character_key_name_translation": "one",
+            "character_key_name_package": "flashlight"
+          }
+        },
+        {
+          "key": 2,
+          "name": "Vinyl Shop",
+          "data": {
+            "character_key": "木",
+            "character_key_name": "Mù",
+            "character_key_name_translation": "wood",
+            "character_key_name_package": "watch"
+          }
+        },
+        {
+          "key": 3,
+          "name": "Airport",
+          "data": {
+            "character_key": "尸",
+            "character_key_name": "Shī",
+            "character_key_name_translation": "corpse",
+            "character_key_name_package": "sunflower"
+          }
+        },
+        {
+          "key": 4,
+          "name": "Drug Store",
+          "data": {
+            "character_key": "田",
+            "character_key_name": "Tián",
+            "character_key_name_translation": "field",
+            "character_key_name_package": "placard"
+          }
+        },
+        {
+          "key": 5,
+          "name": "Stationary Shop",
+          "data": {
+            "character_key": "大",
+            "character_key_name": "Dà",
+            "character_key_name_translation": "big",
+            "character_key_name_package": "bullseye"
+          }
+        },
+        {
+          "key": 6,
+          "name": "Photograph Store",
+          "data": {
+            "character_key": "木",
+            "character_key_name": "Mù",
+            "character_key_name_translation": "wood",
+            "character_key_name_package": "watch"
+          }
+        },
+        {
+          "key": 7,
+          "name": "Tech Store",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 8,
+          "name": "Bank",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 9,
+          "name": "Police Station",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 10,
+          "name": "Cinema",
+          "data": {
+            "character_key": "廿",
+            "character_key_name": "Niàn",
+            "character_key_name_translation": "twenty",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 11,
+          "name": "Movie Studio",
+          "data": {
+            "character_key": "大",
+            "character_key_name": "Dà",
+            "character_key_name_translation": "big",
+            "character_key_name_package": "bullseye"
+          }
+        },
+        {
+          "key": 12,
+          "name": "Beauty Saloon",
+          "data": {
+            "character_key": "火",
+            "character_key_name": "Huǒ",
+            "character_key_name_translation": "fire",
+            "character_key_name_package": "tent"
+          }
+        },
+        {
+          "key": 13,
+          "name": "Psychology Clinic",
+          "data": {
+            "character_key": "一",
+            "character_key_name": "Yī",
+            "character_key_name_translation": "one",
+            "character_key_name_package": "flashlight"
+          }
+        },
+        {
+          "key": 14,
+          "name": "Blood Bank",
+          "data": {
+            "character_key": "土",
+            "character_key_name": "Tǔ",
+            "character_key_name_translation": "earth",
+            "character_key_name_package": "taxi_cab"
+          }
+        }
+      ]
+    },
+    {
+      "key": 4,
+      "key_name": "Sparkle",
+      "children": [
+        {
+          "key": 0,
+          "name": "Chinese Food",
+          "data": {
+            "character_key": "田",
+            "character_key_name": "Tián",
+            "character_key_name_translation": "field",
+            "character_key_name_package": "placard"
+          }
+        },
+        {
+          "key": 1,
+          "name": "Market Store",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 2,
+          "name": "Radio Station",
+          "data": {
+            "character_key": "火",
+            "character_key_name": "Huǒ",
+            "character_key_name_translation": "fire",
+            "character_key_name_package": "tent"
+          }
+        },
+        {
+          "key": 3,
+          "name": "Drug Store",
+          "data": {
+            "character_key": "田",
+            "character_key_name": "Tián",
+            "character_key_name_translation": "field",
+            "character_key_name_package": "placard"
+          }
+        },
+        {
+          "key": 4,
+          "name": "Barber Shop",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 5,
+          "name": "Sex Shop",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 6,
+          "name": "Make-up Store",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 7,
+          "name": "Police Station",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 8,
+          "name": "Tech Store",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 9,
+          "name": "Sound Gear Store",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 10,
+          "name": "Bank",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 11,
+          "name": "Supermarket",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 12,
+          "name": "Butcher",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 13,
+          "name": "Airport",
+          "data": {
+            "character_key": "尸",
+            "character_key_name": "Shī",
+            "character_key_name_translation": "corpse",
+            "character_key_name_package": "sunflower"
+          }
+        },
+        {
+          "key": 14,
+          "name": "Bike Shop",
+          "data": {
+            "character_key": "女",
+            "character_key_name": "Nǚ",
+            "character_key_name_translation": "female",
+            "character_key_name_package": "guitar"
+          }
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "key_name": "Water Field",
+      "children": [
+        {
+          "key": 0,
+          "name": "Hospital",
+          "data": {
+            "character_key": "廿",
+            "character_key_name": "Niàn",
+            "character_key_name_translation": "twenty",
+            "character_key_name_package": "sunglasses"
+          }
+        },
+        {
+          "key": 1,
+          "name": "Police Station",
+          "data": {
+            "character_key": "口",
+            "character_key_name": "Kǒu",
+            "character_key_name_translation": "mouth",
+            "character_key_name_package": "christmas_tree"
+          }
+        },
+        {
+          "key": 2,
+          "name": "Veterinary",
+          "data": {
+            "character_key": "一",
+            "character_key_name": "Yī",
+            "character_key_name_translation": "one",
+            "character_key_name_package": "flashlight"
+          }
+        },
+        {
+          "key": 3,
+          "name": "Bank",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 4,
+          "name": "Supermarket",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        },
+        {
+          "key": 5,
+          "name": "Butcher",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 6,
+          "name": "Tech Store",
+          "data": {
+            "character_key": "戈",
+            "character_key_name": "Gē",
+            "character_key_name_translation": "dagger-axe",
+            "character_key_name_package": "fire_extinguisher"
+          }
+        },
+        {
+          "key": 7,
+          "name": "Convenience Store",
+          "data": {
+            "character_key": "土",
+            "character_key_name": "Tǔ",
+            "character_key_name_translation": "earth",
+            "character_key_name_package": "taxi_cab"
+          }
+        },
+        {
+          "key": 8,
+          "name": "Airport",
+          "data": {
+            "character_key": "尸",
+            "character_key_name": "Shī",
+            "character_key_name_translation": "corpse",
+            "character_key_name_package": "sunflower"
+          }
+        },
+        {
+          "key": 9,
+          "name": "Liquor Store",
+          "data": {
+            "character_key": "中",
+            "character_key_name": "Zhōng",
+            "character_key_name_translation": "middle",
+            "character_key_name_package": "joystick"
+          }
+        },
+        {
+          "key": 10,
+          "name": "Phone Store",
+          "data": {
+            "character_key": "難",
+            "character_key_name": "Nán",
+            "character_key_name_translation": "disaster",
+            "character_key_name_package": "telephone"
+          }
+        },
+        {
+          "key": 11,
+          "name": "Computer Store",
+          "data": {
+            "character_key": "月",
+            "character_key_name": "Yuè",
+            "character_key_name_translation": "moon",
+            "character_key_name_package": "calendar"
+          }
+        },
+        {
+          "key": 12,
+          "name": "Sound Gear Store",
+          "data": {
+            "character_key": "手",
+            "character_key_name": "Shǒu",
+            "character_key_name_translation": "hand",
+            "character_key_name_package": "camping"
+          }
+        },
+        {
+          "key": 13,
+          "name": "Bus Station",
+          "data": {
+            "character_key": "人",
+            "character_key_name": "Rén",
+            "character_key_name_translation": "people",
+            "character_key_name_package": "umbrella"
+          }
+        },
+        {
+          "key": 14,
+          "name": "TV Studio",
+          "data": {
+            "character_key": "心",
+            "character_key_name": "Xīn",
+            "character_key_name_translation": "heart",
+            "character_key_name_package": "eagle"
+          }
+        }
+      ]
+    }
+  ]
+}
