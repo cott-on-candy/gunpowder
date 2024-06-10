@@ -155,17 +155,17 @@ class GunPowder {
       }
     } else if (s === 'helium') {
       return {
-        value: 中土.value.filter((w) => w === ''),
-        function: 中土.function.filter((w) => w === ''),
-        behavior: 中土.behavior.filter((w) => w === ''),
-        result: 中土.result.filter((w) => w === '')
+        value: 中土.value,
+        function: 中土.function.filter((w) => w !== 'F' && w !== 'G' && w !== 'N' && w !== 'P'),
+        behavior: 中土.behavior.filter((w) => w !== 'S' || w !== 'U' || w !== 'V'),
+        result: 中土.result
       }
     } else if (s === 'lithium') {
       return {
-        value: 中土.value.filter((w) => w === ''),
-        function: 中土.function.filter((w) => w === ''),
-        behavior: 中土.behavior.filter((w) => w === ''),
-        result: 中土.result.filter((w) => w === '')
+        value: 中土.value.filter((w) => w === 'A' || w === 'E'),
+        function: 中土.function.filter((w) => w === 'D' || w === 'F' || w === 'G'),
+        behavior: 中土.behavior.filter((w) => w !== 'B' && w !== 'J' && w !== 'K' && w !== 'L'),
+        result: 中土.result.filter((w) => w === 'M' || w === 'O' || w === 'V')
       }
     }
   }
