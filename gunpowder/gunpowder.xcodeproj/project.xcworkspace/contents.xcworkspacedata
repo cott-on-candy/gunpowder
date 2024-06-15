@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../.."
+      name = "..">
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <Group
+         location = "group:node_modules"
+         name = "node_modules">
+         <Group
+            location = "group:commander"
+            name = "commander">
+            <FileRef
+               location = "group:LICENSE">
+            </FileRef>
+            <Group
+               location = "group:typings"
+               name = "typings">
+               <FileRef
+                  location = "group:index.d.ts">
+               </FileRef>
+               <FileRef
+                  location = "group:esm.d.mts">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:index.js">
+            </FileRef>
+            <FileRef
+               location = "group:Readme.md">
+            </FileRef>
+            <FileRef
+               location = "group:package.json">
+            </FileRef>
+            <FileRef
+               location = "group:esm.mjs">
+            </FileRef>
+            <Group
+               location = "group:lib"
+               name = "lib">
+               <FileRef
+                  location = "group:argument.js">
+               </FileRef>
+               <FileRef
+                  location = "group:option.js">
+               </FileRef>
+               <FileRef
+                  location = "group:error.js">
+               </FileRef>
+               <FileRef
+                  location = "group:command.js">
+               </FileRef>
+               <FileRef
+                  location = "group:help.js">
+               </FileRef>
+               <FileRef
+                  location = "group:suggestSimilar.js">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:package-support.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:swiss-knife"
+            name = "swiss-knife">
+            <FileRef
+               location = "group:LICENSE">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:index.js">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:yarn.lock">
+      </FileRef>
+      <FileRef
+         location = "group:package.json">
+      </FileRef>
+      <Group
+         location = "group:gunpowder"
+         name = "gunpowder">
+         <FileRef
+            location = "group:gunpowder.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:src"
+         name = "src">
+         <FileRef
+            location = "group:&#x4e2d;&#x571f;.json">
+         </FileRef>
+         <FileRef
+            location = "group:&#x5fc3;&#x6c34;&#x571f;.json">
+         </FileRef>
+         <FileRef
+            location = "group:index.js">
+         </FileRef>
+         <FileRef
+            location = "group:hex.json">
+         </FileRef>
+         <FileRef
+            location = "group:&#x4e2d;&#x4eba;.json">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>

@@ -46,9 +46,6 @@ program.command('generate')
     }
 
     const p = new GunPowder(s, 'generate', debug);
-
-    console.log('rr');
-    console.log(p.result);
   });
 
 
